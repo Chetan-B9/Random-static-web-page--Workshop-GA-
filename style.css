@@ -718,6 +718,10 @@ footer {
     width: 66%;
   }
 
+  .proposal-part .webinar_details .first_col { 
+      padding-right: 1rem;
+    }
+
   .proposal-part .webinar_details .second_col {
     padding: 0;
   }
