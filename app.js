@@ -44,7 +44,7 @@ let swiper = new Swiper(".mySwiper", {
   loop: true,
   autoplay: {
     delay: 2500,
-    disableOnInteraction: true,
+    disableOnInteraction: false,
   },
   breakpoints: {
     320: {
